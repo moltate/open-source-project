@@ -1,4 +1,4 @@
-# OSS Audit — Linux Kernel
+# Open Source Project — Linux Kernel
 ### Open Source Software | VIT Bhopal | NGMC Course
 
 | Field | Details |
