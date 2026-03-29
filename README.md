@@ -45,7 +45,7 @@ No additional installations required for any script.
 ### Step 1 — Clone the repository
 
 ```bash
-git clone https://github.com/moltate/open-source-project
+git clone https://github.com/moltate/open-source-project.git
 cd open-source-project
 ```
 
