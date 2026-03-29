@@ -45,8 +45,8 @@ No additional installations required for any script.
 ### Step 1 — Clone the repository
 
 ```bash
-git clone https://github.com/HARDIK-WEB-OSS/oss-audit.git
-cd oss-audit
+git clone https://github.com/moltate/open-source-project
+cd open-source-project
 ```
 
 ### Step 2 — Make all scripts executable
